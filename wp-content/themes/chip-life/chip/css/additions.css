@@ -1,0 +1,41 @@
+
+/*
+* My Additions
+*/
+.UserInfoWidget {
+    background-image: url("../../images/widgets-bg.png");
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 0 0 5px 2px #000000;
+}
+
+.ServerInfoWidget {
+    background-image: url("../../images/widgets-bg.png");
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 0 0 5px 2px #000000;
+}
+
+.GobiSROTeam {
+    background-image: url("../../images/widgets-bg.png");
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 0 0 5px 2px #000000;
+}
+
+.error {
+    border: 1px solid;
+    margin: 10px 0px;
+    padding:15px 10px 15px 50px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    color: #D8000C;
+    background-color: #FFBABA;
+    background-image: url("<?php bloginfo ( 'template_directory' ) ?>/images/error.png");
+}
